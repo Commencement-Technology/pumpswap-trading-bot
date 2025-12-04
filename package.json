@@ -28,7 +28,7 @@
     "fs": "^0.0.1-security",
     "jotai": "^2.12.5",
     "mime": "^4.0.7",
-    "next": "15.3.5",
+    "next": "15.4.8",
     "next-auth": "^4.24.11",
     "nft.storage": "^7.2.0",
     "pinata-web3": "^0.5.4",
